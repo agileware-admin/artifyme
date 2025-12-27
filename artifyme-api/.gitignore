@@ -27,7 +27,3 @@ dist-ssr
 .env
 .env.*
 
-# env files
-.env
-.env.*
-
